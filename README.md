@@ -10,8 +10,8 @@ Você faz parte do time de Ciência de Dados e Big Data da InsightPlaces e ficou
 | -------------  | --- |
 | :sparkles: Nome        | **Insight Places Imobiliárias**
 | :label: Tecnologias | python, spark (tecnologias utilizadas)
-| :rocket: URL         | [https://url-deploy.com.br](https://github.com/pabloxD13/Bootcamp_Data_Science_Alura_2)
-| :fire: Desafio     | [https://url-do-desafio.com.br](https://trello.com/b/roz5h9ho/challenge-data-science-semana-1)
+| :rocket: URL         | (https://github.com/pabloxD13/Bootcamp_Data_Science_Alura_2)
+| :fire: Desafio     | (https://trello.com/b/roz5h9ho/challenge-data-science-semana-1)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://trello-backgrounds.s3.amazonaws.com/6303bef9dc5a376c5fcf8b57/1280x720/cc08824c4298317c2b582fe4445a729a/IP2.png#vitrinedev)
